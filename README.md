@@ -16,3 +16,12 @@ However, eventhough we managed to build powerful algorithms, the hard thing is n
 
 ![App Screenshot](./Global_Arch.png?raw=true "Infrastructure")
 ![App Screenshot](./Improv_Arch.png?raw=true "Improvements")
+
+## Details for certification purpose
+
+* email adress: cora.michel@gmail.com
+* video link: 
+
+## Authors
+
+**Coralie GUILLOTTE* - [CoralieGM](https://github.com/CoralieGM)
