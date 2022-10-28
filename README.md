@@ -20,7 +20,7 @@ However, eventhough we managed to build powerful algorithms, the hard thing is n
 ## Details for certification purpose
 
 * email adress: cora.michel@gmail.com
-* video link: 
+* video link: https://share.vidyard.com/watch/XRv2Lx9anspDYbvPRXW8Cj?
 
 ## Authors
 
