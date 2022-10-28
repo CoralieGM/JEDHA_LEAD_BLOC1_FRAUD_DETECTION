@@ -25,5 +25,5 @@ However, eventhough we managed to build powerful algorithms, the hard thing is n
 ## Authors
 
 - **Coralie GUILLOTTE** - [CoralieGM](https://github.com/CoralieGM)
-- **Gauthier** - [g0thier](https://github.com/g0thier)
-- **Richard**
+- **Gauthier RAMMAULT** - [g0thier](https://github.com/g0thier)
+- **Richard REQUENA DELON**
